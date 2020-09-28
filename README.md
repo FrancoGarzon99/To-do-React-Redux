@@ -5,7 +5,7 @@ En el siguente link podras ver el funcionamiento de la app ----> https://to-do-r
 Instrucciones basicas para iniciar el proyecto(Fork & clone): 
 
 ### `npm install`
-Instalar los modulos para iniciar los siguientes comandos.
+Instalar los modulos para iniciar el siguiente comando.
 
 ### `npm start`
 Ejecuta la aplicación en modo de desarrollo.
