@@ -24,7 +24,7 @@ const stylesApp = {
     display: "flex",
     justifyContent: "center",
     color: "#fff",
-    margin: "20px 0",
+    margin: "15px 0",
   },
 };
 
@@ -46,7 +46,7 @@ function App() {
           </div>
         </Col>
         <Col sm={8}>
-          <div>
+          <div className="scroll-style">
             <RenderTodo />
           </div>
         </Col>

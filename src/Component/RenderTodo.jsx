@@ -14,9 +14,9 @@ const RenderTodo = () => {
     <div>
       {listToDo.map((t, i) => {
         if (t.complete) {
-          return <CardCompleted key={t.id} {...t} />;
+          return <CardCompleted key={t.id} id={t.id} text={t.text} />;
         } else {
-          return <CardTodo key={t.id} {...t} />;
+          return <CardTodo key={t.id} id={t.id} text={t.text} />;
         }
       })}
     </div>
