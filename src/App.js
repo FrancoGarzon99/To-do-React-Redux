@@ -50,6 +50,7 @@ function App() {
               Developed by &nbsp;{" "}
               <a
                 href="https://github.com/FrancoGarzon99"
+                target="_blank"
                 style={stylesApp.name}
               >
                 Franco Garzón
