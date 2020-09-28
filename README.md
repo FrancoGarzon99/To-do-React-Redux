@@ -1,4 +1,4 @@
-To-do App realizada con React Hooks y Redux.
+To-do App realizada con React Hooks y Redux. <br/>
 En el siguente link podras ver el funcionamiento de la app ----> https://to-do-react-redux-ph9gsf5qa.vercel.app
 
 
