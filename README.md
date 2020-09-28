@@ -1,4 +1,4 @@
-To-do App realizada con Create-react-app y redux.
+To-do App realizada con React y Redux.
 En el siguente link podras ver el funcionamiento de la app ----> https://to-do-react-redux-ph9gsf5qa.vercel.app
 
 
