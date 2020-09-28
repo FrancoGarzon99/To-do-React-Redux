@@ -26,6 +26,9 @@ const stylesApp = {
     color: "#fff",
     margin: "15px 0",
   },
+  name: {
+    color: "#fff",
+  },
 };
 
 //Renderizamos por pantalla
@@ -42,7 +45,16 @@ function App() {
         <Col sm={4}>
           <div style={stylesApp.addContainer}>
             <AddTodo />
-            <p style={stylesApp.copy}>Developed by Franco Garzón</p>
+
+            <p style={stylesApp.copy}>
+              Developed by &nbsp;{" "}
+              <a
+                href="https://github.com/FrancoGarzon99"
+                style={stylesApp.name}
+              >
+                Franco Garzón
+              </a>
+            </p>
           </div>
         </Col>
         <Col sm={8}>
