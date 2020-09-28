@@ -1,5 +1,5 @@
 To-do App realizada con React Hooks y Redux. <br/>
-En el siguente link podras ver el funcionamiento de la app ----> https://to-do-react-redux-ph9gsf5qa.vercel.app
+En el siguente link podras ver el funcionamiento de la app ----> https://to-do-react-redux.vercel.app/
 
 Instrucciones basicas para iniciar el proyecto(Fork & clone):
 
