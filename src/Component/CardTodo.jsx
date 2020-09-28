@@ -17,7 +17,7 @@ const cardStyle = {
     alignItems: "center",
   },
   textCard: {
-    textTransform: "capitalize",
+    textTransform: "initial",
   },
   checkDelet: {
     margin: "0px 8px",

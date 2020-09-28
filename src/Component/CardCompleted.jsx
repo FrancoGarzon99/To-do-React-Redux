@@ -17,7 +17,7 @@ const completeStyle = {
     alignItems: "center",
   },
   textCardComplete: {
-    textTransform: "capitalize",
+    textTransform: "initial",
     textDecoration: "line-through",
   },
 };
